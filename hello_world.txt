@@ -1,0 +1,3 @@
+I'm pumped.  Finally understand SSH/GIT/Bash commands on a higher level.
+
+Thanks CS!
